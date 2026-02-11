@@ -14,7 +14,6 @@ A ideia é permitir que o usuário registre seus gastos, visualize o total gasto
 - Adicionar gastos
 - Listar gastos cadastrados
 - Calcular total gasto
-- Salvar dados no navegador (LocalStorage)
 
 ## 📂 Estrutura do projeto
 
